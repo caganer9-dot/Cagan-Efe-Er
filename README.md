@@ -1,2 +1,2 @@
 # Çağan Efe Er
-Future A.G.I specialist and first-year student in CS Department of Bilkent University.
+Aspiring A.G.I developer and first-year student in CS Department of Bilkent University.
